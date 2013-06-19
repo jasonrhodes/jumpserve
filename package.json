@@ -1,9 +1,8 @@
 {
-  "name": "rwdlab",
-  "description": "A small app to write responsive examples",
+  "name": "jumpserve",
+  "description": "A small node server for static HTML sites and sandboxes",
   "author": "Jason Rhodes <jason.matthew.rhodes@gmail.com>",
   "dependencies": {
-    "express": ">= 1.2.0",
-    "nodemon": "*"
+    "express": "3.*"
   }
 }
