@@ -1,6 +1,6 @@
-# RWD Lab
+# Jumpserve
 
-A place to test out responsive web design techniques and tools. 
+A teeny weeny node server for building static HTML sites and sandboxes. Clone it and have a simple HTML/JS project up and running in 60 seconds.
 
 ## Get the server up and running
 
