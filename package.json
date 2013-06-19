@@ -1,0 +1,9 @@
+{
+  "name": "rwdlab",
+  "description": "A small app to write responsive examples",
+  "author": "Jason Rhodes <jason.matthew.rhodes@gmail.com>",
+  "dependencies": {
+    "express": ">= 1.2.0",
+    "nodemon": "*"
+  }
+}
