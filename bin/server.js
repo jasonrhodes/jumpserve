@@ -11,7 +11,7 @@ app.get("/", function (request, response) {
     var index = './public/index.html';
     try { fs.readFileSync(index); }
     catch (e) {
-        response.send("<h1>The RWD Lab Server is running</h1><p>Create a file at" + index + "</p>");
+        response.send("<h1>Jumpserve is running</h1><p>Create your own / file at" + index + "</p>");
         return;
     }
     response.sendfile(index);
