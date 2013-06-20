@@ -1,6 +1,6 @@
 {
   "name": "jumpserve",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "A small node server for static HTML sites and sandboxes",
   "author": "Jason Rhodes <jason.matthew.rhodes@gmail.com>",
   "dependencies": {
